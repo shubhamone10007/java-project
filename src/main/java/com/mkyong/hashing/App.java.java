@@ -1,14 +1,17 @@
 package com.mkyong.hashing;
 
 /**
- * Hello world!
+ *Hello world
  *
  */
 public class App 
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+             
+    	final String msg1="msg1";
+    	System.out.println(lo);
+    	System.out.println(Res_Bundle.getBundle(MSG1));
 
 }
 public String checkEvenOdd(int n)
